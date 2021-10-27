@@ -36,3 +36,5 @@
         target="_blank"></a>
   
 </div>
+  
+    ![Snake animation](https://github.com/ViiczZanes/ViiczZanes/blob/output/github-contribution-grid-snake.svg)
